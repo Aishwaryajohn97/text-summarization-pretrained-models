@@ -1,4 +1,4 @@
-Effect of Pre-Trained Models in Text Summarization for Proceedings
+**Effect of Pre-Trained Models in Text Summarization for Proceedings**
 
 Project Description
 
