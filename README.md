@@ -1,10 +1,13 @@
 Effect of Pre-Trained Models in Text Summarization for Proceedings
+
 Project Description
+
 This repository contains the code and resources for a Master's project focused on evaluating the effectiveness of various pre-trained language models (BART, BERT, T5, and GPT-2) for summarizing legal court proceedings. The goal is to create shorter, yet informative, variations of lengthy legal documents to make them more accessible.
 
 Traditional text summarization methods often rely on manual techniques, which can be time-consuming and error-prone. This research explores the use of advanced pre-trained models, trained on vast text and code corpora, to generate more accurate and informative summaries. The project utilizes archival records from the Old Bailey website for its dataset and evaluates the models using ROUGE-1, ROUGE-2, and ROUGE-L metrics for both single-sentence and full-text summarization.
 
 Key Features & Technologies
+
 Text Summarization: Implementation and evaluation of abstractive text summarization techniques.
 
 Pre-trained Models: Application and comparative analysis of BART, BERT, T5, and GPT-2 models.
@@ -20,6 +23,7 @@ Key Libraries: transformers, pandas, numpy, rouge-score, torch, sentencepiece.
 Development Environment: Jupyter Notebooks for data processing, model implementation, and evaluation.
 
 Dataset
+
 The dataset used in this project consists of archival records of criminal trial proceedings obtained from the Old Bailey website.
 
 Source: Old Bailey Online
